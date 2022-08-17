@@ -20,7 +20,7 @@ ESP32 -> 0.91" Oled
 - GPIO 15 -> SDA
 - GPIO 2 -> SCL
 
-# ESP32 -> DPS5005 / 5020
+ESP32 -> DPS5005 / 5020
 
 (see https://github.com/opensolarproject/OSPController/wiki/Step-2-Hardware-Build)
 
