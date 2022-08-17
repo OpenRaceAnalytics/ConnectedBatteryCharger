@@ -1,5 +1,6 @@
 # ConnectedBatteryCharger
-ESP32 Enabled Battery Charger - Ready to Interface with ORA System
+ESP32 Enabled Battery Charger - Ready to Interface with ORA System.
+
 Credits to https://github.com/opensolarproject/OSPController for the interfacing with DPS5005!
 
 # HW BOM
