@@ -18,7 +18,7 @@ ESP32 -> 0.91" Oled
 - 3.3V -> VCC
 - GND -> GND
 - GPIO 15 -> SDA
-- GPIO 2 -> SCL
+- GPIO 13 -> SCL
 
 ESP32 -> DPS5005 / 5020
 
